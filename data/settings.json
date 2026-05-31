@@ -1,1 +1,12 @@
--n {"companyName":"","ownerName":"","email":"","phone":"","address":"","currency":"TRY","timezone":"Europe/Istanbul"}
+{
+  "companyName": "Retto Creative",
+  "ownerName": "Buse Bolova",
+  "email": "busebolova@hotmail.com",
+  "phone": "05308330137",
+  "address": "İzmir",
+  "logoUrl": "",
+  "faviconUrl": "",
+  "primaryColor": "#000000",
+  "currency": "TRY",
+  "timezone": "Europe/Istanbul"
+}
